@@ -17,7 +17,7 @@ The project was completed in **four phases** (Week 1 – Week 4) as part of our 
 **Tools Used:**
 - 🐍 Python (Pandas, NumPy, Matplotlib)
 - 🧠 Google Colab
-- 🗄️ SQL (for preliminary data exploration)
+
 
 **Deliverables:**
 - Cleaned dataset ready for analysis  
@@ -33,7 +33,7 @@ The project was completed in **four phases** (Week 1 – Week 4) as part of our 
 
 **Tools Used:**
 - 🐍 Python (Pandas, Matplotlib)
-- 📊 SQL queries for insights generation
+
 
 **Deliverables:**
 - Document of analysis questions (`WEEK 2/week2_analysis_questions.md`)
@@ -62,9 +62,8 @@ The project was completed in **four phases** (Week 1 – Week 4) as part of our 
 - Prepare **Final Report and Presentation** summarizing project work, including data analysis, model development, and deployment.
 
 **Tools Used:**
-- SQL
 - 🐍 Python (pandas, Matplotlib)
-- Tableau
+- Power BI
 
 **Deliverables:**
 - Visualization dashboard (`WEEK 4/visualization_dashboard.twbx`)
@@ -92,7 +91,7 @@ The project was completed in **four phases** (Week 1 – Week 4) as part of our 
 | **Basant Mohamed Reda El-Samahy** | Data Analyst – Data Cleaning & Modeling |
 | **Mostafa Mohamed Moharem** | Data Analyst – SQL & Exploratory Analysis |
 | **Ahmed El-Sayed Ahmed Foda** | Python Developer – Data Visualization |
-| **Mohamed El-Sayed Mohamed El-Badawy** | Data Analyst – Reporting & Insights |
+| **Mohammed Elsayed Mohammed Elbedawy** | Data Analyst – Reporting & Insights |
 | **Sameh Sobhy Ali Abdelhady** | Project Coordinator – Documentation & Quality Review |
 
 ---
